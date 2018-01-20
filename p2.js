@@ -44,4 +44,4 @@ evenSum = fibos
     .filter(fibo => fibo % 2 === 0)
     .reduce( (prev, curr) => prev + curr ) 
 
-console.log(evenSum)
+console.log(evenSum) // >> *ANSWER*
